@@ -15,5 +15,3 @@ command line: javac ./Lsr.java
 ## Testing
 Directory test1 and test2 give two network topology  
 Command line: ./test1.sh or ./test2.sh
-
-# Routing-Simulation
